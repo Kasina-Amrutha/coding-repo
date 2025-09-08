@@ -1,0 +1,15 @@
+<div class="doctor-list">
+  <h2>Available Doctors</h2>
+  <div class="filters">
+    <input type="text" [(ngModel)]="city" placeholder="City">
+    <input type="text" [(ngModel)]="specialization" placeholder="Specialization Id">
+    <input type="number" [(ngModel)]="rating" placeholder="Min Rating">
+    <button (click)="filterDoctors()">Filter</button>
+  </div>
+  <ul>
+    <li *ngFor="let doctor of filteredDoctors">
+      <strong>{{ doctor.name }}</strong> - {{ doctor.city }} (Rating: {{ doctor.rating }})
+      <button (click)="bookAppointment(doctor)">Book Appointment</button>
+    </li>
+  </ul>
+</div>

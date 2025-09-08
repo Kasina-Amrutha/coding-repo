@@ -1,0 +1,8 @@
+<div class="appointment">
+  <h2>Book Appointment</h2>
+  <form (ngSubmit)="bookAppointment()">
+    <input type="date" [(ngModel)]="appointmentDate" name="date" required>
+    <input type="text" [(ngModel)]="timeSlot" name="timeSlot" placeholder="Time Slot" required>
+    <button type="submit">Book</button>
+  </form>
+</div>
