@@ -1,0 +1,15 @@
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.AssemblyInfoInputs.cache
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.AssemblyInfo.cs
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.csproj.CoreCompileInputs.cache
+C:\Users\Syamala K\source\repos\Repos\bin\Debug\net8.0\Repos.deps.json
+C:\Users\Syamala K\source\repos\Repos\bin\Debug\net8.0\Repos.dll
+C:\Users\Syamala K\source\repos\Repos\bin\Debug\net8.0\Repos.pdb
+C:\Users\Syamala K\source\repos\Repos\bin\Debug\net8.0\Model.dll
+C:\Users\Syamala K\source\repos\Repos\bin\Debug\net8.0\Model.pdb
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.csproj.AssemblyReference.cache
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.csproj.Up2Date
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.dll
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\refint\Repos.dll
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\Repos.pdb
+C:\Users\Syamala K\source\repos\Repos\obj\Debug\net8.0\ref\Repos.dll

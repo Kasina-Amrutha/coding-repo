@@ -1,0 +1,7 @@
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.csproj.AssemblyReference.cache
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\bin\Debug\Demo_Calculator_App.exe.config
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\bin\Debug\Demo_Calculator_App.exe
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\bin\Debug\Demo_Calculator_App.pdb
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.exe
+C:\Users\Syamala K\source\repos\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.pdb

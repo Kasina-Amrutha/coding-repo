@@ -1,0 +1,10 @@
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Syamala K\source\repos\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Syamala K\\source\\repos\\MyRazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B242FF-28C5-40F7-B64A-4C9AAB2B1648}|..\\MVCExample1\\MVCExample1.csproj|c:\\users\\syamala k\\source\\repos\\mvcexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B242FF-28C5-40F7-B64A-4C9AAB2B1648}|..\\MVCExample1\\MVCExample1.csproj|c:\\users\\syamala k\\source\\repos\\mvcexample1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B242FF-28C5-40F7-B64A-4C9AAB2B1648}|..\\MVCExample1\\MVCExample1.csproj|c:\\users\\syamala k\\source\\repos\\mvcexample1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\MVCExample1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MVCExample1\\Program.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\MVCExample1\\Program.cs*",
+              "RelativeToolTip": "..\\MVCExample1\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:06:17.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T06:03:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\MVCExample1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\MVCExample1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\MVCExample1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\MVCExample1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:53:11.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

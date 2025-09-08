@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE529C-7F39-4683-81AB-67CE917FB9FC}|..\\HRISAPI\\HRISAPI.csproj|c:\\users\\syamala k\\source\\repos\\hrisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE529C-7F39-4683-81AB-67CE917FB9FC}|..\\HRISAPI\\HRISAPI.csproj|c:\\users\\syamala k\\source\\repos\\hrisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE529C-7F39-4683-81AB-67CE917FB9FC}|..\\HRISAPI\\HRISAPI.csproj|c:\\users\\syamala k\\source\\repos\\hrisapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|c:\\users\\syamala k\\source\\repos\\hrisapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85F4029-2675-4EE9-A405-32B548AFC23A}|..\\Model\\Model.csproj|c:\\users\\syamala k\\source\\repos\\model\\hrismodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|c:\\users\\syamala k\\source\\repos\\hrisapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE529C-7F39-4683-81AB-67CE917FB9FC}|..\\HRISAPI\\HRISAPI.csproj|c:\\users\\syamala k\\source\\repos\\hrisapi\\data\\hriscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE529C-7F39-4683-81AB-67CE917FB9FC}|..\\HRISAPI\\HRISAPI.csproj|c:\\users\\syamala k\\source\\repos\\hrisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|c:\\users\\syamala k\\source\\repos\\hrisapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|c:\\users\\syamala k\\source\\repos\\hrisapp\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C3299E-7D0E-488A-A548-A43E58699926}|..\\Repos\\Repos.csproj|c:\\users\\syamala k\\source\\repos\\repos\\repos\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|c:\\users\\syamala k\\source\\repos\\hrisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E445D4-A0C1-4E22-A36A-E527751A16A1}|HRISApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C3299E-7D0E-488A-A548-A43E58699926}|..\\Repos\\Repos.csproj|c:\\users\\syamala k\\source\\repos\\repos\\repocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C3299E-7D0E-488A-A548-A43E58699926}|..\\Repos\\Repos.csproj|c:\\users\\syamala k\\source\\repos\\repos\\repos\\iemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DE470F-BBD7-43FF-A6D0-86F638830215}|..\\Services\\Services.csproj|c:\\users\\syamala k\\source\\repos\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HRISModels.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\Model\\HRISModels.cs",
+              "RelativeDocumentMoniker": "..\\Model\\HRISModels.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\Model\\HRISModels.cs",
+              "RelativeToolTip": "..\\Model\\HRISModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:51:48.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "..\\HRISAPI\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "..\\HRISAPI\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:42:33.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HRISAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Program.cs",
+              "RelativeToolTip": "..\\HRISAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:55:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:55:56.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\HRISAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\appsettings.json",
+              "RelativeToolTip": "..\\HRISAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T17:53:31.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRISContext.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Data\\HRISContext.cs",
+              "RelativeDocumentMoniker": "..\\HRISAPI\\Data\\HRISContext.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Data\\HRISContext.cs",
+              "RelativeToolTip": "..\\HRISAPI\\Data\\HRISContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:45:16.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T06:41:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:36:08.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\HRISAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\HRISAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:20:27.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:09:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\Repos\\Repos\\Dept.cs",
+              "RelativeDocumentMoniker": "..\\Repos\\Repos\\Dept.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\Repos\\Repos\\Dept.cs",
+              "RelativeToolTip": "..\\Repos\\Repos\\Dept.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:46:39.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\HRISApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:24:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\Repos\\RepoContext.cs",
+              "RelativeDocumentMoniker": "..\\Repos\\RepoContext.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\Repos\\RepoContext.cs",
+              "RelativeToolTip": "..\\Repos\\RepoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:52:14.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmp.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\Repos\\Repos\\IEmp.cs",
+              "RelativeDocumentMoniker": "..\\Repos\\Repos\\IEmp.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\Repos\\Repos\\IEmp.cs",
+              "RelativeToolTip": "..\\Repos\\Repos\\IEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:21:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Syamala K\\source\\repos\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Syamala K\\source\\repos\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "..\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:13:04.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
